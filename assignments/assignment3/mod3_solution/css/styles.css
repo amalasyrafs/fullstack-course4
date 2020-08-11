@@ -13,7 +13,7 @@ body {
 
 #header-nav  {
   background-color: #a4778b;
-  border: 0px;\
+  border: 0px;
   height: auto;
 }
 
@@ -23,7 +23,7 @@ body {
   margin-top: 0px;
 }
 
-#collapsable-nav {
+#nav-list {
   background-color: #f6b319;
 }
 

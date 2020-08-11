@@ -1,0 +1,41 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #748E54;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#chicken, #beef, #sushi {
+  height: auto;
+  background-color: #495159;
+  border: 10px solid #748E54;
+}
+
+#header-nav  {
+  background-color: #a4778b;
+  border: 0px;\
+  height: auto;
+}
+
+.navbar-brand h1 {
+  color: white;
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+#collapsable-nav {
+  background-color: #f6b319;
+}
+
+#nav-list {
+  margin: 0px;
+}
+#nav-list a {
+  color: mintcream;
+}
+#nav-list a:hover {
+  background: #a4778b;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}

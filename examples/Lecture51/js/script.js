@@ -13,7 +13,9 @@ function makeMultiplier (multiplier) {
       }
 
     );
+  
 }
 
-var doubleAll = makeMultiplier(2);
+var doubleAll = makeMultiplier(10);
+console.log(doubleAll);
 console.log(doubleAll(10)); // its own exec env
